@@ -4,7 +4,10 @@
 
 <h1 align="center">
   <a href="https://github.com/Mas-ayips">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F7AB00&center=true&vCenter=true&width=600&lines=Halo,+Saya+Mas-Ayips!;Help+Desk+%26+IT+Support+Professional;Siap+Membantu+dan+Memberi+Solusi+Teknologi" alt="Typing Animation"/>
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4500&pause=1000&color=F7AB00&center=true&vCenter=true&width=800&lines=Halo,+Saya+Mas-Ayips!;Help+Desk+dan+IT+Support+Profesional;Siap+Memberi+Bantuan+Teknologi+Terbaik" 
+      alt="Typing Animation"
+    />
   </a>
 </h1>
 
