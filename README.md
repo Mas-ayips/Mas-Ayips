@@ -42,15 +42,15 @@ Saya terbiasa dengan troubleshooting, support sistem, manajemen jaringan, dan me
 ### 📫 Hubungi Saya
 
 <p align="center">
-  <a href="mailto:masayips@email.com" target="_blank">
+  <a href="mailto:Karawista01@gmail.com target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/mas-ayips" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="Facebook" src="https://www.facebook.com/share/18zhM52ExT/"/>
   </a>
   &nbsp;
-  <a href="https://wa.me/6281234567890" target="_blank">
+  <a href="https://wa.me/6285766795914" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
