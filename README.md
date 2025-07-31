@@ -30,5 +30,5 @@
 
 📬 **Let's Collaborate!**
 > 📧 Email: ayipshelpdesk@gmail.com  
-> 🌐 Website: (bisa ditambahkan nanti)  
+> 🌐 Blog: ayipshelpdesk.blogspot.com  
 > 💬 WhatsApp: [0857-6667-95914](https://wa.me/6285766795914)
